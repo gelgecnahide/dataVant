@@ -1,0 +1,11 @@
+{
+  "startDateOffset": 3,
+  "returnDateOffset": 5,
+  "currentDateOffset": 0,
+  "StartDate": "dd MMMM, yyyy",
+  "currentDay": "dd",
+  "verifyDate": "yyyy-MM-dd",
+  "startLocation": "Lagos",
+  "arrivalLocation": "Porto - Campanha",
+  "passengersCount": "5"
+}
